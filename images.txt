@@ -1,2 +1,2 @@
 ollama/ollama
-elestio/memos
+neosmemo/memos:stable
